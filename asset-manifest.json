@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_food_order_app/static/css/main.8fb9f065.css",
+    "main.js": "/react_food_order_app/static/js/main.1547580c.js",
+    "static/js/787.ae0cd389.chunk.js": "/react_food_order_app/static/js/787.ae0cd389.chunk.js",
+    "static/media/spencer-davis-dxTBgnHZ8ZE-unsplash.jpg": "/react_food_order_app/static/media/spencer-davis-dxTBgnHZ8ZE-unsplash.418a2fe50abe0228de14.jpg",
+    "index.html": "/react_food_order_app/index.html",
+    "main.8fb9f065.css.map": "/react_food_order_app/static/css/main.8fb9f065.css.map",
+    "main.1547580c.js.map": "/react_food_order_app/static/js/main.1547580c.js.map",
+    "787.ae0cd389.chunk.js.map": "/react_food_order_app/static/js/787.ae0cd389.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fb9f065.css",
+    "static/js/main.1547580c.js"
+  ]
+}
